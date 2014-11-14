@@ -1,0 +1,26 @@
+{
+  "name": "style-guidance-icons",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jfoxtail/style-guidance-icons",
+  "authors": [
+    "James Brush"
+  ],
+  "description": "A core icon set for various contexts.",
+  "keywords": [
+    "icons",
+    "IT",
+    "infrastructure",
+    "management",
+    "monitoring",
+    "application",
+    "economy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
